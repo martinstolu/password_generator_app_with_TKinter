@@ -5,13 +5,16 @@ A simple GUI-based password manager built using Python and Tkinter. Features inc
 - Copy to clipboard
 - Save credentials to a local file
 
-## How to Use
+🛠 Features
+1. Password Generator: Creates secure passwords with letters, numbers, and symbols.
 
-1. Enter the website, email/username, and password.
-2. Click “Generate Password” for a random strong password.
-3. Click “Add” to save the credentials.
+2. Credential Storage: Saves website, email/username, and password in a local JSON file.
 
-Credentials are saved in `data.csv`.
+3. Search Functionality: Retrieve stored credentials by entering the website name.
+
+4. Clipboard Copy: Automatically copies the generated password to the clipboard.
+
+5. User-Friendly Interface: Intuitive Tkinter-based GUI with neat layout and input validation.
 
 ---
 
